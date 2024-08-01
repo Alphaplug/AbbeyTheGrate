@@ -628,7 +628,7 @@ nav .phone{
     border-radius: 9px;
 }
 .first-one .special .search .one img{
-  width: 40vh;
+  width: 35vh;
 }
 .first-one .special .search .two{
     width: 23%;
@@ -684,7 +684,7 @@ nav .phone{
 
 
 .first-one .teams{
-    background-color: #2844f7; 
+    background-color: #2844f7;                
     display: flex;
     justify-content: space-evenly;
     align-items: center;
