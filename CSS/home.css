@@ -615,8 +615,13 @@ nav .phone{
 .first-one .special p{
   margin: 40px 0 40px 20px;
   text-align: center;
+  font-size: 14px;
   color: #fff;
-  
+}
+.first-one .special p .span2{
+  color: #6e0202;
+  font-size: 15.5px;
+  font-family: "Dosis",sans-serif;
 }
 .first-one .special p .span1{
   color: #000;
