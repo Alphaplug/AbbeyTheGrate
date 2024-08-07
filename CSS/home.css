@@ -612,6 +612,17 @@ nav .phone{
 .first-one .special h1{
     margin: 40px 0 40px 20px;
 }
+.first-one .special p{
+  margin: 40px 0 40px 20px;
+  text-align: center;
+  color: #fff;
+  
+}
+.first-one .special p .span1{
+  color: #000;
+  font-size: larger;
+  font-family: "Dosis",sans-serif;
+}
 .first-one .special .search{
     display: flex;
     width: 100%;
@@ -1371,6 +1382,7 @@ nav .phone{
 .first-one .special .search .one p{
     font-size: 16px;
     margin: 10px 0;
+    color: #000;
 }
 .first-one .special .search .one button{
     background-color: transparent;
